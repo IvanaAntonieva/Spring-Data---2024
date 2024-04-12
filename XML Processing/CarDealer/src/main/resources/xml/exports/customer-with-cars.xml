@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer full-name="Nisha Markwell" bought-cars="4" spent-money="6302.237499999998"/>
+    <customer full-name="Brett Brickley" bought-cars="4" spent-money="5870.515999999999"/>
+    <customer full-name="Zada Attwood" bought-cars="4" spent-money="2510.244"/>
+    <customer full-name="Teddy Hobby" bought-cars="3" spent-money="2340.4269999999997"/>
+    <customer full-name="Yvonne Mccalla" bought-cars="3" spent-money="1784.516"/>
+    <customer full-name="Rema Revelle" bought-cars="3" spent-money="1718.476"/>
+    <customer full-name="Garret Capron" bought-cars="3" spent-money="1232.7440000000001"/>
+    <customer full-name="Hipolito Lamoreaux" bought-cars="2" spent-money="1346.93"/>
+    <customer full-name="Cinthia Lasala" bought-cars="2" spent-money="1115.467"/>
+    <customer full-name="Emmitt Benally" bought-cars="2" spent-money="794.506"/>
+    <customer full-name="Ann Mcenaney" bought-cars="2" spent-money="684.2719999999999"/>
+    <customer full-name="Sylvie Mcelravy" bought-cars="2" spent-money="589.645"/>
+    <customer full-name="Oren Perlman" bought-cars="2" spent-money="382.71500000000003"/>
+    <customer full-name="Johnette Derryberry" bought-cars="2" spent-money="313.684"/>
+    <customer full-name="Daniele Zarate" bought-cars="2" spent-money="255.63299999999998"/>
+    <customer full-name="Lino Subia" bought-cars="2" spent-money="252.863"/>
+    <customer full-name="Francis Mckim" bought-cars="1" spent-money="1044.882"/>
+    <customer full-name="Jimmy Grossi" bought-cars="1" spent-money="815.3820000000001"/>
+    <customer full-name="Marcelle Griego" bought-cars="1" spent-money="323.56199999999995"/>
+    <customer full-name="Carole Witman" bought-cars="1" spent-money="279.97600000000006"/>
+    <customer full-name="Audrea Cardinal" bought-cars="1" spent-money="154.78199999999998"/>
+    <customer full-name="Louann Holzworth" bought-cars="1" spent-money="154.78199999999998"/>
+    <customer full-name="Carri Knapik" bought-cars="1" spent-money="115.17600000000003"/>
+    <customer full-name="Rico Peer" bought-cars="1" spent-money="81.18599999999999"/>
+</customers>
